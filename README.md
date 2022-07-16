@@ -1,5 +1,6 @@
 # k8s-fastapi
 
+
 ## pipenv
 ```
 ❯ pipenv --python 3.9
@@ -66,7 +67,9 @@ Identity added: /Users/volker/.ssh/id_rsa (/Users/volker/.ssh/id_rsa)
 ❯  . /Users/volker/.local/share/virtualenvs/k8s-fastapi-wO_mh93I/bin/activate
 
     ~/Dev/gi/k8s-fastapi    pipenv !1 ?1 
-
-
-
 ```
+
+## fastapi - [first steps](https://fastapi.tiangolo.com/tutorial/first-steps/)
+
+
+
